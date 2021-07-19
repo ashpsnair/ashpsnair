@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aiswarya P.S Nair</h1>
-<h3 align="center">A Bioinformatician and a web-dev enthusiast</h3>
+<h1 align="center">Hi :alien:, I'm Aiswarya P.S Nair</h1>
+<h3 align="center">A Bioinformatician by profession and a web-dev enthusiast</h3> <br/>
 
-- 🔭 I’m currently working on [interior-designing-business-page](https://product-marketing-rjc60ek0b-ashpsnair.vercel.app)
 
-- 🌱 I’m currently learning **ReactJS**
-
-- 📫 How to reach me **ashpsnair@gmail.com**
+- :book: I am currently learning **ReactJS**
+- :computer: Check out the project that I am currently working on :arrow_forward: [interior-designing-business-page](https://product-marketing-rjc60ek0b-ashpsnair.vercel.app)
+- :sailboat: I love traveling and gaming :video_game:
+- 📫 Here is how you can reach me :arrow_forward: **ashpsnair@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
