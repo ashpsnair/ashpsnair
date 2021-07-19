@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aiswarya P.S Nair</h1>
 <h3 align="center">A Bioinformatician and a web-dev enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashpsnair&label=Profile%20views&color=0e75b6&style=flat" alt="ashpsnair" /> </p>
-
 - 🔭 I’m currently working on [interior-designing-business-page](https://product-marketing-rjc60ek0b-ashpsnair.vercel.app)
 
 - 🌱 I’m currently learning **ReactJS**
