@@ -2,7 +2,7 @@
 <h3 align="center">A Bioinformatician by profession and a data science enthusiast</h3> <br/>
 
 
-- :book: I am currently learning **SQL**
+- :book: I am currently learning **Fundamentals of ML**
 - :sailboat: I love traveling and gaming :video_game:
 - 📫 Here is how you can reach me :arrow_forward: **ashpsnair@gmail.com**
 
